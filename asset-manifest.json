@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.39ef3c68.css",
-    "main.js": "/static/js/main.999ab8b6.js",
+    "main.css": "/static/css/main.281f53ae.css",
+    "main.js": "/static/js/main.aaa80cd6.js",
     "static/media/OpenSans-MediumItalic.woff": "/static/media/OpenSans-MediumItalic.494ba1214eb7e125a68d.woff",
     "static/media/OpenSans-LightItalic.woff": "/static/media/OpenSans-LightItalic.d09a2ced8c133bdcba7c.woff",
     "static/media/OpenSans-SemiBoldItalic.woff": "/static/media/OpenSans-SemiBoldItalic.5786d8d850b32344f0e4.woff",
@@ -33,12 +33,11 @@
     "static/media/atom.svg": "/static/media/atom.113622d4b0c466c4e5c50a8c9213fcea.svg",
     "static/media/rss10_logo.svg": "/static/media/rss10_logo.d1f9bff1ff84224561a820581a4f93d9.svg",
     "index.html": "/index.html",
-    "static/media/netlify.toml": "/static/media/netlify.f44c071ba9fe073b9d98.toml",
-    "main.39ef3c68.css.map": "/static/css/main.39ef3c68.css.map",
-    "main.999ab8b6.js.map": "/static/js/main.999ab8b6.js.map"
+    "main.281f53ae.css.map": "/static/css/main.281f53ae.css.map",
+    "main.aaa80cd6.js.map": "/static/js/main.aaa80cd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.39ef3c68.css",
-    "static/js/main.999ab8b6.js"
+    "static/css/main.281f53ae.css",
+    "static/js/main.aaa80cd6.js"
   ]
 }
